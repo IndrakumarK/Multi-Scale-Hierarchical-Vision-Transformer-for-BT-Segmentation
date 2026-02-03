@@ -81,9 +81,9 @@ python inference.py
 
 ```bibtex
 @article{MSHVT2026,
-  title={Multi-Scale Hierarchical Vision Transformer for Reliable Brain Tumor Segmentation from Multimodal MRI},
-  author={Mohammed A. S. Al-Mohamadi and Prabhakar C. J},
-  journal={Scientific Reports},
+  title={Multi-Scale Hierarchical Vision Transformer for Brain Tumor Segmentation},
+  author={Indrakumar K, Ravikumar M},
+  journal={SPattern Analysis and Applications (Springer)},
   year={2026}
 }
 ```

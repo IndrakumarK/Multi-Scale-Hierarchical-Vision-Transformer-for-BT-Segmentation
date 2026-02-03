@@ -56,6 +56,19 @@ Multi-Scale-Hierarchical-Vision-Transformer-for-BT-Segmentation/
 └── README.md
 ```
 
+## 📁 Datasets
+Brain Tumor Image DataSet : Semantic Segmentation 
+https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation?select=test
+
+Indk214
+https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification 
+
+Brain Tumor Segmentation
+A 2D brain tumor segmentation dataset: https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation?select=masks
+
+Brain tumor segmentation 
+https://www.kaggle.com/datasets/tinashri/brain-tumor-segmentation-datasets
+
 ---
 
 ## 🚀 Quick Start

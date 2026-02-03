@@ -1,0 +1,1 @@
+python train.py --data_dir ./brats2021 --epochs 300

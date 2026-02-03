@@ -1,0 +1,5 @@
+models/          # Core MS-HVT and layer modules
+data/            # BraTS dataset loader
+utils/           # Loss functions
+train.py         # Training script
+inference.py     # Inference pipeline

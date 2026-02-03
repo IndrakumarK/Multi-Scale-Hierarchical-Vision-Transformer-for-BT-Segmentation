@@ -1,0 +1,4 @@
+python inference.py \
+  --checkpoint ./checkpoints/best_model.pth \
+  --input_dir ./brats2021/subject_00001 \
+  --output_dir ./results

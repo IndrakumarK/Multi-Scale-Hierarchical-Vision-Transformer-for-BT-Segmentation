@@ -1,0 +1,7 @@
+brats2021/
+└── subject_00000/
+    ├── t1.nii.gz
+    ├── t1ce.nii.gz
+    ├── t2.nii.gz
+    ├── flair.nii.gz
+    └── seg.nii.gz

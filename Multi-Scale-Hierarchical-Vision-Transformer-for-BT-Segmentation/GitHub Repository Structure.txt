@@ -1,0 +1,20 @@
+ms-hvt-brain-tumor/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── models/
+│   ├── __init__.py
+│   └── ms_hvt.py
+├── models/layers/
+│   ├── __init__.py
+│   ├── sca.py
+│   ├── hatd.py
+│   └── agf.py
+├── data/
+│   ├── __init__.py
+│   └── dataset.py
+├── utils/
+│   ├── __init__.py
+│   └── losses.py
+├── train.py
+└── inference.py

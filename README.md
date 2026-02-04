@@ -96,7 +96,7 @@ python inference.py
 @article{MSHVT2026,
   title={Multi-Scale Hierarchical Vision Transformer for Brain Tumor Segmentation},
   author={Indrakumar K, Ravikumar M},
-  journal={SPattern Analysis and Applications (Springer)},
+  journal={},
   year={2026}
 }
 ```

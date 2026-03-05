@@ -1,0 +1,20 @@
+model: MS-HVT
+patch_sizes: [8,16,32]
+
+training:
+  optimizer: AdamW
+  learning_rate: 0.0001
+  weight_decay: 0.01
+  batch_size: 4
+  epochs: 120
+  scheduler: cosine
+
+uncertainty:
+  mc_dropout_samples: 20
+
+token_decimation:
+  entropy_threshold: 0.30
+
+input:
+  image_size: 256
+  channels: 1

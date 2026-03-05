@@ -8,6 +8,9 @@ training:
   batch_size: 4
   epochs: 120
   scheduler: cosine
+  warmup_epochs: 10
+  early_stopping_patience: 15
+  dropout_rate: 0.3
 
 uncertainty:
   mc_dropout_samples: 20
@@ -17,4 +20,5 @@ token_decimation:
 
 input:
   image_size: 256
+
   channels: 1
